@@ -1,0 +1,59 @@
+1. Fake and Real News Dataset (Kaggle)
+
+Link: Fake and Real News Dataset
+
+Description: Contains 23,000 real news articles from Reuters and 21,000 fake news articles from unreliable sources.
+
+Features: title, text, label (FAKE or REAL)
+
+
+
+---
+
+2. LIAR Dataset
+
+Source: Liar Dataset GitHub
+
+Paper: "LIAR: A Benchmark Dataset for Fake News Detection"
+
+Description: 12.8k manually labeled short statements from Politifact, with truth ratings (pants-fire to true).
+
+Features: statement, subject, speaker, label (6-level scale), etc.
+
+
+
+---
+
+3. COVID-19 Fake News Dataset
+
+Link: Kaggle - COVID Fake News
+
+Description: News articles and tweets labeled for COVID-19 misinformation.
+
+Good for: Domain-specific misinformation detection (health).
+
+
+
+---
+
+4. FakeNewsNet
+
+Source: FakeNewsNet GitHub
+
+Description: Integrates content, social context, and spatiotemporal information from fake/real news.
+
+Note: Rich dataset, requires setup via Python script.
+
+
+
+---
+
+5. BuzzFeed and PolitiFact Dataset
+
+Collected by: Kaggle, GitHub projects
+
+Description: Real fact-checked claims and news articles, labeled and verified.
+
+
+
+---
